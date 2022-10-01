@@ -1,0 +1,19 @@
+collide = False
+screen_easy = False
+screen_medium = False
+screen_hard = False
+analyisng = 'screen_initial'
+phase = 0
+die = 0
+incremetation_position = 0 
+kill = False
+score = 0
+str_score= '0'
+score_antigo = 0
+str_score_antigo = '0'
+surprise = 0
+b = 2
+record_final = 0
+show_record = '0'
+help = False
+
